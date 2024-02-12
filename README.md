@@ -36,5 +36,6 @@
 * minikube ip
 * http://ip:nodeport
 
-![img.png](img.png)
+![img](https://github.com/geraldine999/K8S-Spring-Mysql-ConfigMap-Secret/assets/70971944/99cd8826-2c44-42b8-bf6d-98ef6124f424)
+
 
